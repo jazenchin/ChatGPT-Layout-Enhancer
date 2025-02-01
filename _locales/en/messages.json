@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "ChatGPT Layout Enhancer",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Automatically adjust the width of the ChatGPT page to 100%",
+    "description": "Extension description"
+  }
+} 

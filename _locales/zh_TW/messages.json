@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "ChatGPT 版面增強器",
+    "description": "擴充功能名稱"
+  },
+  "extDescription": {
+    "message": "自動調整 ChatGPT 頁面寬度至 100%",
+    "description": "擴充功能描述"
+  }
+} 
